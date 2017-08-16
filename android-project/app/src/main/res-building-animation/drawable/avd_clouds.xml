@@ -1,0 +1,138 @@
+<!--
+  Copyright 2017 Saul Molinero
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="321dp"
+            android:height="358dp"
+            android:viewportHeight="358"
+            android:viewportWidth="321">
+
+            <group android:name="cloud"
+                android:translateX="90">
+                <path
+                    android:pathData="M 260.476 221.032 L 268.738 221.135 M 258.5 231 L 267.5 231"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+                <path
+                    android:pathData="M 245.083 222 L 245.929 222 L 246.069 221.165 C 246.47 218.776 248.549 217 251 217 C 253.296 217 255.28 218.56 255.843 220.752 L 256.148 221.939 L 257.25 221.402 C 257.79 221.139 258.384 221 259 221 C 261.209 221 263 222.791 263 225 C 263 226.026 262.613 226.989 261.928 227.725 L 261.792 227.872 L 261.722 228.059 C 261.074 229.811 259.397 231 257.504 231 L 241.496 231 C 239.016 231 237 228.982 237 226.5 C 237 224.017 239.018 222 241.496 222 L 245.083 222 Z"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"/>
+                <path
+                    android:pathData="M 234.158 230.967 L 240.291 230.975"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+            </group>
+
+            <group android:name="cloud_1"
+                android:translateX="120">
+                <path
+                    android:pathData="M 232.197 175.924 L 241.07 175.893"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+                <path
+                    android:pathData="M 218.083 167 L 218.929 167 L 219.069 166.165 C 219.47 163.776 221.549 162 224 162 C 226.296 162 228.28 163.56 228.843 165.752 L 229.148 166.939 L 230.25 166.402 C 230.79 166.139 231.384 166 232 166 C 234.209 166 236 167.791 236 170 C 236 171.026 235.613 171.989 234.928 172.725 L 234.792 172.872 L 234.722 173.059 C 234.074 174.811 232.397 176 230.504 176 L 214.496 176 C 212.016 176 210 173.982 210 171.5 C 210 169.017 212.018 167 214.496 167 L 218.083 167 Z"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"/>
+                <path
+                    android:pathData="M 207.525 167.221 L 213.382 167.033"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+
+            </group>
+
+            <group android:name="cloud_2">
+                <path
+                    android:pathData="M 139.917 132 L 139.071 132 L 138.931 131.165 C 138.53 128.776 136.451 127 134 127 C 131.704 127 129.72 128.56 129.157 130.752 L 128.852 131.939 L 127.75 131.402 C 127.21 131.139 126.616 131 126 131 C 123.791 131 122 132.791 122 135 C 122 136.026 122.387 136.989 123.072 137.725 L 123.208 137.872 L 123.278 138.059 C 123.926 139.811 125.603 141 127.496 141 L 143.504 141 C 145.984 141 148 138.982 148 136.5 C 148 134.017 145.982 132 143.504 132 L 139.917 132 Z"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"/>
+
+                <path
+                    android:pathData="M 119.283 131.228 L 125.14 131.04"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+
+                <path
+                    android:pathData="M 144.672 140.949 L 148.203 140.79"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"
+                    android:strokeLineCap="square"/>
+            </group>
+
+            <group android:name="cloud_3"
+                android:translateX="-90"
+                android:translateY="-140">
+                <path
+                    android:pathData="M 61.997 86.584 C 60.193 85.793 59 84.003 59 82 C 59 79.24 61.238 77 63.992 77 L 64.895 77 L 65.102 76.273 C 65.622 74.442 68.065 73 71 73 C 73.935 73 76.378 74.442 76.898 76.273 L 77.105 77 L 79.008 77 C 81.762 77 84 79.243 84 82 C 84 84.76 81.762 87 79.008 87 L 63.992 87 C 63.296 87 62.621 86.857 61.997 86.584 Z"
+                    android:strokeColor="#2852f2"
+                    android:strokeWidth="2"/>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="cloud">
+        <aapt:attr name="android:animation">
+            <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+                android:duration="5000"
+                android:propertyName="translateX"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:startOffset="1000"
+                android:valueFrom="200"
+                android:valueTo="-290"
+                android:valueType="floatType" />
+        </aapt:attr>
+    </target>
+    <target android:name="cloud_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+                android:duration="4100"
+                android:propertyName="translateX"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:startOffset="400"
+                android:valueFrom="120"
+                android:valueTo="-250"
+                android:valueType="floatType" />
+        </aapt:attr>
+    </target>
+    <target android:name="cloud_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+                android:duration="4500"
+                android:propertyName="translateX"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:startOffset="1500"
+                android:valueFrom="-90"
+                android:valueTo="270"
+                android:valueType="floatType" />
+        </aapt:attr>
+    </target>
+    <target android:name="cloud_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+                android:duration="6000"
+                android:propertyName="translateX"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:valueFrom="-160"
+                android:valueTo="210"
+                android:valueType="floatType" />
+        </aapt:attr>
+    </target>
+</animated-vector>

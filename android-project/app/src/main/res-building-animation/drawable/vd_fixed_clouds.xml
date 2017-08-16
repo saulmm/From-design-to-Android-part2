@@ -1,0 +1,43 @@
+<!--
+  Copyright 2017 Saul Molinero
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="321dp"
+    android:height="358dp"
+    android:viewportWidth="321"
+    android:viewportHeight="358">
+    <group android:name="far_cloud_left">
+        <path
+            android:name="path_1"
+            android:pathData="M 80.5 292.5 L 66.5 292.5 L 66.5 286.5 L 29.507 286.5 C 26.742 286.5 24.5 284.263 24.5 281.506 L 24.5 279.494 C 24.5 276.732 26.733 274.5 29.507 274.5 L 95.493 274.5 C 98.258 274.5 100.5 276.737 100.5 279.494 L 100.5 281.506 C 100.5 284.268 98.267 286.5 95.493 286.5 L 80.5 286.5 L 80.5 292.5 Z M 45.5 298.494 C 45.5 295.739 47.74 293.5 50.494 293.5 L 100.506 293.5 C 103.264 293.5 105.5 295.736 105.5 298.494 L 105.5 300.506 C 105.5 303.261 103.26 305.5 100.506 305.5 L 50.494 305.5 C 47.736 305.5 45.5 303.264 45.5 300.506 L 45.5 298.494 Z"
+            android:fillColor="#d1e9ff"
+            android:strokeColor="#d1e9ff"
+            android:strokeWidth="1"/>
+        <path
+            android:name="path_5"
+            android:pathData="M 54.5 253.5 L 118.5 253.5 C 121.814 253.5 124.5 256.186 124.5 259.5 C 124.5 262.814 121.814 265.5 118.5 265.5 L 54.5 265.5 C 51.186 265.5 48.5 262.814 48.5 259.5 C 48.5 256.186 51.186 253.5 54.5 253.5"
+            android:fillColor="#d1e9ff"
+            />
+    </group>
+    <group android:name="far_cloud_right">
+        <path
+            android:name="path_7"
+            android:pathData="M 240.5 172.5 L 254.5 172.5 L 254.5 178.5 L 291.493 178.5 C 294.258 178.5 296.5 180.737 296.5 183.494 L 296.5 185.506 C 296.5 188.268 294.267 190.5 291.493 190.5 L 225.507 190.5 C 222.742 190.5 220.5 188.263 220.5 185.506 L 220.5 183.494 C 220.5 180.732 222.733 178.5 225.507 178.5 L 240.5 178.5 L 240.5 172.5 Z M 275.5 166.506 C 275.5 169.261 273.26 171.5 270.506 171.5 L 220.494 171.5 C 217.736 171.5 215.5 169.264 215.5 166.506 L 215.5 164.494 C 215.5 161.739 217.74 159.5 220.494 159.5 L 270.506 159.5 C 273.264 159.5 275.5 161.736 275.5 164.494 L 275.5 166.506 Z"
+            android:fillColor="#d1e9ff"
+            android:strokeColor="#d1e9ff"
+            android:strokeWidth="1"/>
+        <path
+            android:name="rectangle_5_1"
+            android:pathData="M 266.5 211.5 L 202.5 211.5 C 199.186 211.5 196.5 208.814 196.5 205.5 C 196.5 202.186 199.186 199.5 202.5 199.5 L 266.5 199.5 C 269.814 199.5 272.5 202.186 272.5 205.5 C 272.5 208.814 269.814 211.5 266.5 211.5"
+            android:fillColor="#d1e9ff"
+    />
+    </group>
+</vector>
