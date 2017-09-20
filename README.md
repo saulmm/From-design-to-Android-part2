@@ -3,7 +3,7 @@
 This repository hosts the implementation of the aspects covered in the [second part of the series](): _From design to android_. Focusing on the _[ShapeFilter](https://shapeshifter.design/)_ tool, _AndroidVectorDrawables_, _ScaleDrawables_, _AdaptiveIcons_ and more 😁
 
 ### Blog post
-[here]()👈
+[here](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)👈
 
 ![demo](art/final_result.gif)
 
