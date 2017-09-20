@@ -1,10 +1,13 @@
 # From design to android, part 2
 
-This repository hosts the implementation of the aspects covered in the second part of the series: _From design to android_. Focusing on the _[ShapeFilter](https://shapeshifter.design/)_ tool, _AndroidVectorDrawables_, _ScaleDrawables_, _AdaptiveIcons_ and more 😁
+This repository hosts the implementation of the aspects covered in the [second part of the series](): _From design to android_. Focusing on the _[ShapeFilter](https://shapeshifter.design/)_ tool, _AndroidVectorDrawables_, _ScaleDrawables_, _AdaptiveIcons_ and more 😁
+
+### Blog post
+[here]()👈
 
 ![demo](art/final_result.gif)
 
-References:
+### References:
 - [Vector Drawable adaptive icons, Ian Lake](https://medium.com/@ianhlake/vectordrawable-adaptive-icons-3fed3d3205b5)
 - [Designing Adaptive Icons, Nick Butcher](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
 - [Implementing Adaptive Icons, Nick Butcher](https://medium.com/@crafty/implementing-adaptive-icons-1e4d1795470e)
