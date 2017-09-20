@@ -1,6 +1,6 @@
 # From design to android, part 2
 
-This repository hosts the implementation of the aspects covered in the [second part of the series](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9): _From design to android_. Focusing on the _[ShapeFilter](https://shapeshifter.design/)_ tool, _AndroidVectorDrawables_, _ScaleDrawables_, _AdaptiveIcons_ and more 😁
+This repository hosts the implementation of the aspects covered in the [second part of the series](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9): _From design to android_. Focusing on the _[Shape](https://shapeshifter.design/)_ tool, _AndroidVectorDrawables_, _ScaleDrawables_, _AdaptiveIcons_ and more 😁
 
 ### Blog post
 [here](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9) 👈
@@ -16,7 +16,7 @@ This repository hosts the implementation of the aspects covered in the [second p
 - [Vector Drawable adaptive icons, Ian Lake](https://medium.com/@ianhlake/vectordrawable-adaptive-icons-3fed3d3205b5)
 - [Designing Adaptive Icons, Nick Butcher](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
 - [Implementing Adaptive Icons, Nick Butcher](https://medium.com/@crafty/implementing-adaptive-icons-1e4d1795470e)
-- [Shape Filter, Alex Lockwood](https://medium.com/r/?url=https%3A%2F%2Fshapeshifter.design%2F)
+- [Shape Shifter, Alex Lockwood](https://medium.com/r/?url=https%3A%2F%2Fshapeshifter.design%2F)
 - [An introduction to icon animation techniques, Alex Lockwood](http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
 
 
