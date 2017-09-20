@@ -37,7 +37,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:src="@drawable/asl_building"
-        android:background="@drawable/vd_fixed_clouds"
+        android:background="@drawable/vd_clouds_fixed"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
